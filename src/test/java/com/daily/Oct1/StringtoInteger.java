@@ -14,7 +14,6 @@ public class StringtoInteger {
             }
         }
 
-
         System.out.println(myAtoi(str));
 
     }
