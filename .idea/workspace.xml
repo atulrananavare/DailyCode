@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Oct4 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct5/SwapTwoNumbers.java" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Oct5 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct6/IsPrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,20 +56,7 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwapTwoNumbers">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct3.Anagram" />
-      <module name="DailyWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.daily.Oct3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IsPrimeNumber">
     <configuration name="EqualFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Oct3.EqualFrequency" />
       <module name="DailyWork" />
@@ -83,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct2.MergeSortedArray" />
+    <configuration name="IsPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Oct6.IsPrimeNumber" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Oct2.*" />
+          <option name="PATTERN" value="com.daily.Oct6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,6 +89,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.daily.Oct4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringContainsVovels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Oct5.StringContainsVovels" />
+      <module name="DailyWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daily.Oct5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPrimeNumber" />
+        <item itemvalue="Application.StringContainsVovels" />
         <item itemvalue="Application.SwapTwoNumbers" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.EqualFrequency" />
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.MergeSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664768953693</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Oct4 code daily">
+      <created>1664854821553</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664854821553</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Oct5 code daily">
+      <created>1664856696974</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664856696974</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,7 +223,8 @@
     <MESSAGE value="Oct2 code daily" />
     <MESSAGE value="Oct3 code daily" />
     <MESSAGE value="Oct4 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct4 code daily" />
+    <MESSAGE value="Oct5 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct5 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
