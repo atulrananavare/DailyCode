@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Oct5 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct6/IsPrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Oct6 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct7/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct6/IsPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct6/IsPrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +56,13 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IsPrimeNumber">
-    <configuration name="EqualFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct3.EqualFrequency" />
+  <component name="RunManager" selected="Application.FibonacciSeries">
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Oct7.FibonacciSeries" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Oct3.*" />
+          <option name="PATTERN" value="com.daily.Oct7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.IsPrimeNumber" />
         <item itemvalue="Application.StringContainsVovels" />
         <item itemvalue="Application.SwapTwoNumbers" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.EqualFrequency" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664856696974</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Oct6 code daily">
+      <created>1664981803124</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664981803124</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,7 +231,8 @@
     <MESSAGE value="Oct3 code daily" />
     <MESSAGE value="Oct4 code daily" />
     <MESSAGE value="Oct5 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct5 code daily" />
+    <MESSAGE value="Oct6 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct6 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
