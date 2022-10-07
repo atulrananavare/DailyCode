@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Oct7 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct8/OnlyOddNumber.java" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Oct8 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct8/PalindromeCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OnlyOddNumber">
+  <component name="RunManager" selected="Application.PalindromeCheck">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Oct7.FibonacciSeries" />
       <module name="DailyWork" />
@@ -95,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Oct8.PalindromeCheck" />
+      <module name="DailyWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daily.Oct8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringContainsVovels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Oct5.StringContainsVovels" />
       <module name="DailyWork" />
@@ -108,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct5.SwapTwoNumbers" />
-      <module name="DailyWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.daily.Oct5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeCheck" />
         <item itemvalue="Application.OnlyOddNumber" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.IsPrimeNumber" />
         <item itemvalue="Application.StringContainsVovels" />
-        <item itemvalue="Application.SwapTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665029934333</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Oct8 code daily">
+      <created>1665115965618</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665115965618</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +246,8 @@
     <MESSAGE value="Oct5 code daily" />
     <MESSAGE value="Oct6 code daily" />
     <MESSAGE value="Oct7 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct7 code daily" />
+    <MESSAGE value="Oct8 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct8 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
