@@ -7,7 +7,7 @@ public class PalindromeCheck {
         char[] arr = str.toLowerCase().toCharArray();
         char[] temp = new char[arr.length];
         for (int i = arr.length - 1; i > 0; i--) {
-            temp[i] = arr[i];
+            temp[i] = str.charAt(i);
         }
 
         String s = temp.toString();
