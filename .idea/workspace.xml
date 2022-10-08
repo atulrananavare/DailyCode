@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Oct8 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct8/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct9/PalindromeCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct8/PalindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct8/PalindromeCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Atul_WorkSpace/eclipse_workspace/employeeService&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Atul_WorkSpace/eclipse_workspace/MyEmployeeService&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -55,7 +56,7 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromeCheck">
+  <component name="RunManager" selected="Application.com.daily.Oct9.PalindromeCheck">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Oct7.FibonacciSeries" />
       <module name="DailyWork" />
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringContainsVovels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct5.StringContainsVovels" />
+    <configuration name="com.daily.Oct9.PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Oct9.PalindromeCheck" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Oct5.*" />
+          <option name="PATTERN" value="com.daily.Oct9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.daily.Oct9.PalindromeCheck" />
         <item itemvalue="Application.PalindromeCheck" />
         <item itemvalue="Application.OnlyOddNumber" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.IsPrimeNumber" />
-        <item itemvalue="Application.StringContainsVovels" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665115965618</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Oct8 code daily">
+      <created>1665116530153</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665116530153</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
