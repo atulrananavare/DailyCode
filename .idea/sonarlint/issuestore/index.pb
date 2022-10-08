@@ -18,8 +18,6 @@ b
 2src/main/java/com/daily/Oct1/StringJoinerTest.java,6\b\6bc239c37a110c39d82d677b753aadd4fac84da7
 a
 1src/main/java/com/daily/Oct1/StringtoInteger.java,6\a\6a26134c3cebe3eab1ceb3f832b83302baf75c51
-Z
-*src/main/java/com/daily/Oct2/Panagram.java,6\4\6470effd470fa689e5d44b960ff75a7dec0f24ad
 b
 2src/main/java/com/daily/Oct2/MergeSortedArray.java,a\1\a1ae1548019399c30e240a44c547a32fdf207880
 `
