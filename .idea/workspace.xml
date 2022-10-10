@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Oct9 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct9/RemoveWhiteSpacesString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct10/RemoveLeadingAndTrailingSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct9/DuplicateFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Oct9/StartWithJava8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,13 +58,13 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveWhiteSpacesString">
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct7.FibonacciSeries" />
+  <component name="RunManager" selected="Application.RemoveLeadingAndTrailingSpaces">
+    <configuration name="DuplicateFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Oct9.DuplicateFromList" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Oct7.*" />
+          <option name="PATTERN" value="com.daily.Oct9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,25 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnlyOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct8.OnlyOddNumber" />
+    <configuration name="RemoveLeadingAndTrailingSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Oct10.RemoveLeadingAndTrailingSpaces" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Oct8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct8.PalindromeCheck" />
-      <module name="DailyWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.daily.Oct8.*" />
+          <option name="PATTERN" value="com.daily.Oct10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,6 +87,19 @@
     </configuration>
     <configuration name="RemoveWhiteSpacesString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Oct9.RemoveWhiteSpacesString" />
+      <module name="DailyWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daily.Oct9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartWithJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Oct9.StartWithJava8" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveLeadingAndTrailingSpaces" />
+        <item itemvalue="Application.DuplicateFromList" />
+        <item itemvalue="Application.StartWithJava8" />
         <item itemvalue="Application.RemoveWhiteSpacesString" />
         <item itemvalue="Application.com.daily.Oct9.PalindromeCheck" />
-        <item itemvalue="Application.PalindromeCheck" />
-        <item itemvalue="Application.OnlyOddNumber" />
-        <item itemvalue="Application.FibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665234243819</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Oct9 code daily">
+      <created>1665234845703</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665234845703</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

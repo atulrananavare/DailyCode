@@ -24,3 +24,11 @@ b
 0src/main/java/com/daily/Oct3/EqualFrequency.java,1\e\1efb156e39e177d1d1ee51f3b9e72255fe695b50
 _
 /src/main/java/com/daily/Oct4/ReverseString.java,e\5\e51f6f18755e3c73dc855e870b6663e493036f26
+Z
+*src/main/java/com/daily/Oct2/Panagram.java,6\4\6470effd470fa689e5d44b960ff75a7dec0f24ad
+Y
+)src/main/java/com/daily/Oct3/Anagram.java,d\b\db03e116443a3cdf1c1fb7be3f505c5382b8d786
+a
+1src/main/java/com/daily/Oct9/PalindromeCheck.java,9\d\9de36a0408331a167588d78a5b9b3b589290f454
+a
+1src/main/java/com/daily/Oct8/PalindromeCheck.java,6\d\6de3b722ed4800a44051e43946961aceb451f448
