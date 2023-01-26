@@ -4,34 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Oct10 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan26/SingleTon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Jan 26 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan26/CheckListDivByTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct1/FindDuplicateNumbersFromTwoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/FindDuplicateNumbersFromTwoList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct1/ImplementStrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/ImplementStrStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct1/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct1/ReadTextFileContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/ReadTextFileContent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct1/StringJoinerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/StringJoinerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct1/StringtoInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/StringtoInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct10/RemoveLeadingAndTrailingSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct10/RemoveLeadingAndTrailingSpaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct10/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct10/SortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct2/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct2/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct2/Panagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct2/Panagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct3/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct3/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct3/EqualFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct3/EqualFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct4/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct4/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct5/StringContainsVovels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct5/StringContainsVovels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct5/SwapTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct5/SwapTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct6/IsPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct6/IsPrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct7/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct7/FibonacciSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct8/OnlyOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct8/OnlyOddNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct8/PalindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct8/PalindromeCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct9/DuplicateFromList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct9/DuplicateFromList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct9/PalindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct9/PalindromeCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct9/RemoveWhiteSpacesString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct9/RemoveWhiteSpacesString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Oct9/StartWithJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct9/StartWithJava8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +55,20 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingleTonTest">
+  <component name="RunManager" selected="Application.CheckListDivByTwo">
+    <configuration name="CheckListDivByTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan26.CheckListDivByTwo" />
+      <module name="DailyWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daily.Jan23.jan26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DuplicateFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Oct9.DuplicateFromList" />
       <module name="DailyWork" />
@@ -133,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartWithJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct9.StartWithJava8" />
-      <module name="DailyWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.daily.Oct9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckListDivByTwo" />
         <item itemvalue="Application.SingleTonTest" />
         <item itemvalue="Application.SortArray" />
         <item itemvalue="Application.RemoveLeadingAndTrailingSpaces" />
         <item itemvalue="Application.DuplicateFromList" />
-        <item itemvalue="Application.StartWithJava8" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665375540341</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Jan 26 code daily">
+      <created>1674737245590</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674737245590</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,7 +291,8 @@
     <MESSAGE value="Oct8 code daily" />
     <MESSAGE value="Oct9 code daily" />
     <MESSAGE value="Oct10 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct10 code daily" />
+    <MESSAGE value="Jan 26 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan 26 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
