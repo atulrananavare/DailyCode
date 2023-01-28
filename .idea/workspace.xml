@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Jan 26 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan26/CheckListDivByTwo.java" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Jan 28 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan28/FrequencyOfWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckListDivByTwo">
+  <component name="RunManager" selected="Application.FrequencyOfWord">
     <configuration name="CheckListDivByTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan26.CheckListDivByTwo" />
       <module name="DailyWork" />
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct9.DuplicateFromList" />
+    <configuration name="FrequencyOfWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan28.FrequencyOfWord" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Oct9.*" />
+          <option name="PATTERN" value="com.daily.Jan23.jan28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencyOfWord" />
         <item itemvalue="Application.CheckListDivByTwo" />
         <item itemvalue="Application.SingleTonTest" />
         <item itemvalue="Application.SortArray" />
         <item itemvalue="Application.RemoveLeadingAndTrailingSpaces" />
-        <item itemvalue="Application.DuplicateFromList" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674737245590</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Jan 28 code daily">
+      <created>1674884515630</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674884515630</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,7 +299,8 @@
     <MESSAGE value="Oct9 code daily" />
     <MESSAGE value="Oct10 code daily" />
     <MESSAGE value="Jan 26 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan 26 code daily" />
+    <MESSAGE value="Jan 28 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan 28 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
