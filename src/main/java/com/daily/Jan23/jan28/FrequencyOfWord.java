@@ -10,9 +10,11 @@ import java.util.stream.Stream;
 
 public class FrequencyOfWord {
     public static void main(String[] args) {
-        List<String> list= Arrays.asList("AA","BB","BB","AA","CC","DD");
+        //step1:
+        List<String> list= Arrays.asList("AA","BB","BB","AA","CC","DD","AA");
         System.out.println(list);
 
+        //java8
         Map<String, Long> list2 = list.stream().filter(str -> Collections.frequency(list, str) > 1).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
         //Map<Object, Long> distStr = list.stream().filter(str-> Collections.frequency(list,str)>1).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
         System.out.println(list2);
