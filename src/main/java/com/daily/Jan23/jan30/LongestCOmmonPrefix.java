@@ -1,10 +1,5 @@
 package com.daily.Jan23.jan30;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.function.Function;
-import java.util.stream.Collectors;
-
 //Write a function to find the longest common prefix string amongst an array of strings.
 //
 //        If there is no common prefix, return an empty string "".
