@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Jan 28 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan29/parenthesisChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan30/LongestCOmmonPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan28/FrequencyOfWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan28/FrequencyOfWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.parenthesisChecker">
+  <component name="RunManager" selected="Application.LongestCOmmonPrefix">
     <configuration name="CheckListDivByTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan26.CheckListDivByTwo" />
       <module name="DailyWork" />
@@ -85,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleTonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan26.SingleTonTest" />
+    <configuration name="LongestCOmmonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan30.LongestCOmmonPrefix" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Jan23.jan26.*" />
+          <option name="PATTERN" value="com.daily.Jan23.jan30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Oct10.SortArray" />
+    <configuration name="SingleTonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan26.SingleTonTest" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Oct10.*" />
+          <option name="PATTERN" value="com.daily.Jan23.jan26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCOmmonPrefix" />
         <item itemvalue="Application.parenthesisChecker" />
         <item itemvalue="Application.FrequencyOfWord" />
         <item itemvalue="Application.CheckListDivByTwo" />
         <item itemvalue="Application.SingleTonTest" />
-        <item itemvalue="Application.SortArray" />
       </list>
     </recent_temporary>
   </component>
