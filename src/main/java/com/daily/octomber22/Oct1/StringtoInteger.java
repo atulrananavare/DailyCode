@@ -1,4 +1,4 @@
-package com.daily.Oct1;
+package com.daily.octomber22.Oct1;
 
 public class StringtoInteger {
 
@@ -13,7 +13,6 @@ public class StringtoInteger {
               //  System.out.print(arr[i]);
             }
         }
-
 
         System.out.println(myAtoi(str));
 

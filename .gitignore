@@ -8,9 +8,13 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/sonarlint
+.idea/
 *.iws
 *.iml
 *.ipr
+.idea/workspace.xml
+.idea/sonarlint/issuestore
 
 ### Eclipse ###
 .apt_generated
