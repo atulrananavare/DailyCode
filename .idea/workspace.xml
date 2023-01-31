@@ -55,7 +55,7 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestCOmmonPrefix">
+  <component name="RunManager" selected="Application.ReverseWord">
     <configuration name="CheckListDivByTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan26.CheckListDivByTwo" />
       <module name="DailyWork" />
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleTonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan26.SingleTonTest" />
+    <configuration name="ReverseWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan31.ReverseWord" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Jan23.jan26.*" />
+          <option name="PATTERN" value="com.daily.Jan23.jan31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseWord" />
         <item itemvalue="Application.LongestCOmmonPrefix" />
         <item itemvalue="Application.parenthesisChecker" />
         <item itemvalue="Application.FrequencyOfWord" />
         <item itemvalue="Application.CheckListDivByTwo" />
-        <item itemvalue="Application.SingleTonTest" />
       </list>
     </recent_temporary>
   </component>
