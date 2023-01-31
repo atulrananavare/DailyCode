@@ -1,0 +1,113 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,8 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Jan 30 code daily">
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan31/ReverseStringWord.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan30/LongestCOmmonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan30/LongestCOmmonPrefix.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -55,7 +56,7 @@
+       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.LongestCOmmonPrefix">
++  <component name="RunManager" selected="Application.ReverseStringWord">
+     <configuration name="CheckListDivByTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan26.CheckListDivByTwo" />
+       <module name="DailyWork" />
+@@ -95,12 +96,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="SingleTonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan26.SingleTonTest" />
++    <configuration name="ReverseStringWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.daily.Jan23.jan31.ReverseStringWord" />
+       <module name="DailyWork" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="com.daily.Jan23.jan26.*" />
++          <option name="PATTERN" value="com.daily.Jan23.jan31.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -123,11 +124,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.ReverseStringWord" />
+         <item itemvalue="Application.LongestCOmmonPrefix" />
+         <item itemvalue="Application.parenthesisChecker" />
+         <item itemvalue="Application.FrequencyOfWord" />
+         <item itemvalue="Application.CheckListDivByTwo" />
+-        <item itemvalue="Application.SingleTonTest" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -287,7 +288,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1675097087613</updated>
+     </task>
+-    <option name="localTasksCounter" value="22" />
++    <task id="LOCAL-00022" summary="Jan 30 code daily">
++      <created>1675097180602</created>
++      <option name="number" value="00022" />
++      <option name="presentableId" value="LOCAL-00022" />
++      <option name="project" value="LOCAL" />
++      <updated>1675097180602</updated>
++    </task>
++    <option name="localTasksCounter" value="23" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+Index: src/main/java/com/daily/Jan23/jan31/ReverseStringWord.java
+===================================================================
+diff --git a/src/main/java/com/daily/Jan23/jan31/ReverseStringWord.java b/src/main/java/com/daily/Jan23/jan31/ReverseStringWord.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/com/daily/Jan23/jan31/ReverseStringWord.java	
+@@ -0,0 +1,33 @@
++package com.daily.Jan23.jan31;
++
++import java.util.Arrays;
++import java.util.Collections;
++import java.util.List;
++import java.util.stream.Collectors;
++
++public class ReverseStringWord {
++//    Input:
++//    S = i.like.this.program.very.much
++//    Output: much.very.program.this.like.i
++
++    public static void main(String[] args) {
++        String str = "i.like.this.program.very.much";
++
++        String rev = reverseWords(str);
++        System.out.println(rev);
++    }
++
++    public static String reverseWords(String s) {
++        String[] arr = s.split("\\.");
++        StringBuilder sb = new StringBuilder();
++        for (int i = arr.length - 1; i >= 0; i--) {
++            System.out.println(arr[i]);
++            sb.append(arr[i]);
++            if (i != 0) {
++                sb.append(".");
++            }
++        }
++        return sb.toString();
++    }
++
++}
