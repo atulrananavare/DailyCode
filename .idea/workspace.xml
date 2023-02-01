@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Jan 31 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb1/LongestCommonPrefixArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0f4e78b65cd903f2ad6704d221f16f4a2b8fcfd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb1 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb1/AnagramCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan26/CheckListDivByTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan26/CheckListDivByTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan26/SingleTon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan26/SingleTon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan26/SingleTonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan26/SingleTonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan28/CheckNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan28/CheckNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan28/FrequencyOfWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan28/FrequencyOfWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan29/parenthesisChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan29/parenthesisChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan30/LongestCOmmonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan30/LongestCOmmonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan31/ReverseWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan31/ReverseWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +55,13 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestCommonPrefixArray">
-    <configuration name="FrequencyOfWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Jan.jan28.FrequencyOfWord" />
+  <component name="RunManager" selected="Application.AnagramCheck">
+    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb1.AnagramCheck" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Jan.jan28.*" />
+          <option name="PATTERN" value="com.daily.Feb.feb1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnagramCheck" />
         <item itemvalue="Application.LongestCommonPrefixArray" />
         <item itemvalue="Application.ReverseWord" />
         <item itemvalue="Application.LongestCOmmonPrefix" />
         <item itemvalue="Application.parenthesisChecker" />
-        <item itemvalue="Application.FrequencyOfWord" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675134675237</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Feb1 code daily">
+      <created>1675219172918</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675219172918</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,7 +330,8 @@
     <MESSAGE value="Jan 28 code daily" />
     <MESSAGE value="Jan 30 code daily" />
     <MESSAGE value="Jan 31 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan 31 code daily" />
+    <MESSAGE value="Feb1 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb1 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
