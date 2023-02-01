@@ -1,4 +1,4 @@
-package com.daily.Jan23.jan31;
+package com.daily.Jan.jan31;
 
 public class ReverseWord {
     public static void main(String[] args) {

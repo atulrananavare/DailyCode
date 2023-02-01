@@ -1,4 +1,4 @@
-package com.daily.Jan23.jan30;
+package com.daily.Jan.jan30;
 
 //Write a function to find the longest common prefix string amongst an array of strings.
 //

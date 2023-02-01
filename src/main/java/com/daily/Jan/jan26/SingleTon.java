@@ -1,4 +1,4 @@
-package com.daily.Jan23.jan26;
+package com.daily.Jan.jan26;
 
 
 //Cognizant interview: How to write singleton class using java

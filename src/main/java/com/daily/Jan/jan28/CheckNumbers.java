@@ -1,4 +1,4 @@
-package com.daily.Jan23.jan28;
+package com.daily.Jan.jan28;
 
 //how to check given number is positive or negative or zero
 public class CheckNumbers {

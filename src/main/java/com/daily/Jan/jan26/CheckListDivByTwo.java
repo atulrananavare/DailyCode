@@ -1,6 +1,5 @@
-package com.daily.Jan23.jan26;
+package com.daily.Jan.jan26;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;

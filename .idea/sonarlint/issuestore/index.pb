@@ -11,3 +11,7 @@ j
 :src/main/java/com/daily/Jan23/jan26/CheckListDivByTwo.java,b\4\b4b22ef03441f93722dfcffb4b87a96e701fb493
 e
 5src/main/java/com/daily/Jan23/jan28/CheckNumbers.java,0\7\0730159088ae92bba698a8d3224b2f102b70e084
+…
+U.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am__Changes_1.xml,5\8\581bb00a536ab23f7fe6a577b444d42c56373bb1
+„
+T.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am__Changes_.xml,2\6\26b5f68f1fc733cbed047e8a7b2aaa4d730f8b44

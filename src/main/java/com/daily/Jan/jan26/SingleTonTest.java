@@ -1,4 +1,4 @@
-package com.daily.Jan23.jan26;
+package com.daily.Jan.jan26;
 
 public class SingleTonTest {
     public static void main(String[] args) {
