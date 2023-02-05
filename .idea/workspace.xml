@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb5 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb5/OccurrenceOfNumberFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb5/RemoveDuplicateInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OccurrenceOfNumberFind">
+  <component name="RunManager" selected="Application.RemoveDuplicateInString">
     <configuration name="AlphabetCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb5.AlphabetCheck" />
       <module name="DailyWork" />
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb4.Palindrome" />
+    <configuration name="RemoveDuplicateInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb5.RemoveDuplicateInString" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb.feb4.*" />
+          <option name="PATTERN" value="com.daily.Feb.feb5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicateInString" />
         <item itemvalue="Application.OccurrenceOfNumberFind" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.AlphabetCheck" />
         <item itemvalue="Application.MaximumNumber" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675582900328</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Feb5 code daily">
+      <created>1675596647147</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1675596647147</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
