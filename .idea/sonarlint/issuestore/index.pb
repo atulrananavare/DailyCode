@@ -17,3 +17,13 @@ f
 0src/main/java/com/daily/Jan/jan26/SingleTon.java,a\b\ab2dd324d3362d1b45557841c5dd3e63e845471c
 d
 4src/main/java/com/daily/Jan/jan26/SingleTonTest.java,8\1\8153248183870d2da64f3525e66d4a806533c357
+b
+2src/main/java/com/daily/Jan/jan31/ReverseWord.java,2\b\2b74e73b3fda14f0598361175f1f08e570ce437f
+i
+9src/main/java/com/daily/Jan/jan29/parenthesisChecker.java,b\d\bd4e5a327285e5536e6a75e257215d757bf477bd
+j
+:src/main/java/com/daily/Jan/jan30/LongestCOmmonPrefix.java,2\2\220bec5b9792d1155a201c3d618c5274b1db8813
+b
+2src/main/java/com/daily/Feb/feb1/AnagramCheck.java,1\6\1689470c5c1d0ca986296112a9ced01083a7f81c
+n
+>src/main/java/com/daily/Feb/feb1/LongestCommonPrefixArray.java,5\8\58c89fa060084866e93e6cf8a9866b8417252ac4

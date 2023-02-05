@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb1 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb1/AnagramCheck.java" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb4 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb5/MaximumNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0730159088ae92bba698a8d3224b2f102b70e084" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14214d178073f02c1bea621e370872a31daecaaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9ccf17fc8fb57ab25ffc3b0dc6d84e8f1b93bb0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4b22ef03441f93722dfcffb4b87a96e701fb493" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,26 +60,13 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnagramCheck">
+  <component name="RunManager" selected="Application.MaximumNumber">
     <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb1.AnagramCheck" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.daily.Feb.feb1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestCOmmonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Jan.jan30.LongestCOmmonPrefix" />
-      <module name="DailyWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.daily.Jan.jan30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Jan.jan31.ReverseWord" />
+    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb4.LongestPalindrome" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Jan.jan31.*" />
+          <option name="PATTERN" value="com.daily.Feb.feb4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parenthesisChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Jan.jan29.parenthesisChecker" />
+    <configuration name="MaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb5.MaximumNumber" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Jan.jan29.*" />
+          <option name="PATTERN" value="com.daily.Feb.feb5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb4.Palindrome" />
+      <module name="DailyWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daily.Feb.feb4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumNumber" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.LongestPalindrome" />
         <item itemvalue="Application.AnagramCheck" />
         <item itemvalue="Application.LongestCommonPrefixArray" />
-        <item itemvalue="Application.ReverseWord" />
-        <item itemvalue="Application.LongestCOmmonPrefix" />
-        <item itemvalue="Application.parenthesisChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +306,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675219172918</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Feb1 code daily">
+      <created>1675221258222</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675221258222</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Feb4 code daily">
+      <created>1675516311812</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675516311813</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,7 +350,8 @@
     <MESSAGE value="Jan 30 code daily" />
     <MESSAGE value="Jan 31 code daily" />
     <MESSAGE value="Feb1 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb1 code daily" />
+    <MESSAGE value="Feb4 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb4 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
