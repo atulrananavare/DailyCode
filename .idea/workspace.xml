@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb6 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb6/DefangingIPAdress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb6/MaximumNumOfWordsInSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DefangingIPAdress">
+  <component name="RunManager" selected="Application.MaximumNumOfWordsInSentence">
     <configuration name="DefangingIPAdress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb6.DefangingIPAdress" />
       <module name="DailyWork" />
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb5.FibonacciSeries" />
+    <configuration name="MaximumNumOfWordsInSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb6.MaximumNumOfWordsInSentence" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb.feb5.*" />
+          <option name="PATTERN" value="com.daily.Feb.feb6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumNumOfWordsInSentence" />
         <item itemvalue="Application.DefangingIPAdress" />
         <item itemvalue="Application.RemoveVowelsFromString" />
         <item itemvalue="Application.RemoveDuplicateInString" />
         <item itemvalue="Application.OccurrenceOfNumberFind" />
-        <item itemvalue="Application.FibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675693272472</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Feb6 code daily">
+      <created>1675693663577</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1675693663577</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
