@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb5 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb6/RemoveVowelsFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb6 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb6/DefangingIPAdress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +54,13 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveVowelsFromString">
-    <configuration name="AlphabetCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb5.AlphabetCheck" />
+  <component name="RunManager" selected="Application.DefangingIPAdress">
+    <configuration name="DefangingIPAdress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb6.DefangingIPAdress" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb.feb5.*" />
+          <option name="PATTERN" value="com.daily.Feb.feb6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DefangingIPAdress" />
         <item itemvalue="Application.RemoveVowelsFromString" />
         <item itemvalue="Application.RemoveDuplicateInString" />
         <item itemvalue="Application.OccurrenceOfNumberFind" />
         <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.AlphabetCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675598946395</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Feb6 code daily">
+      <created>1675693272472</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1675693272472</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,7 +388,8 @@
     <MESSAGE value="Feb1 code daily" />
     <MESSAGE value="Feb4 code daily" />
     <MESSAGE value="Feb5 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb5 code daily" />
+    <MESSAGE value="Feb6 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb6 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
