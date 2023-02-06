@@ -31,3 +31,11 @@ g
 7src/main/java/com/daily/Feb/feb4/LongestPalindrome.java,8\4\8420706ce7ef082d3d1045c5ea1288ba42f81e86
 `
 0src/main/java/com/daily/Feb/feb4/Palindrome.java,c\d\cdb43e8d5f70f89fd0cd2cbd286b97a037ed5f27
+c
+3src/main/java/com/daily/Feb/feb5/MaximumNumber.java,b\b\bbe9a9e34ecfedf42373c759c6b31a848bd34c6e
+c
+3src/main/java/com/daily/Feb/feb5/AlphabetCheck.java,e\7\e785b3e48ea722d14257529e2f0c56038930f5b2
+e
+5src/main/java/com/daily/Feb/feb5/FibonacciSeries.java,8\7\879493ed95b090fecaede6a7925165d063081331
+l
+<src/main/java/com/daily/Feb/feb5/OccurrenceOfNumberFind.java,1\3\132aec28202522bc03c9d94b228702d65775dd16
