@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb6 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb7/MaximumNumOfWordsInSentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am_[Changes]1/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am__Changes_1.xml" beforeDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb7 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb7/JewelsAndStones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +54,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.daily.Feb.feb7" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.com.daily.Feb.feb7.MaximumNumOfWordsInSentence">
+  <component name="RunManager" selected="Application.JewelsAndStones">
     <configuration name="DefangingIPAdress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb6.DefangingIPAdress" />
       <module name="DailyWork" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumOfWordsInSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb6.MaximumNumOfWordsInSentence" />
+    <configuration name="JewelsAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb7.JewelsAndStones" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb.feb6.*" />
+          <option name="PATTERN" value="com.daily.Feb.feb7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb5.RemoveDuplicateInString" />
+    <configuration name="MaximumNumOfWordsInSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb6.MaximumNumOfWordsInSentence" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb.feb5.*" />
+          <option name="PATTERN" value="com.daily.Feb.feb6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JewelsAndStones" />
         <item itemvalue="Application.com.daily.Feb.feb7.MaximumNumOfWordsInSentence" />
         <item itemvalue="Application.MaximumNumOfWordsInSentence" />
         <item itemvalue="Application.DefangingIPAdress" />
         <item itemvalue="Application.RemoveVowelsFromString" />
-        <item itemvalue="Application.RemoveDuplicateInString" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +374,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675703442103</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Feb7 code daily">
+      <created>1675748860819</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1675748860819</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Feb7 code daily">
+      <created>1675750258831</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1675750258831</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,18 +421,8 @@
     <MESSAGE value="Feb4 code daily" />
     <MESSAGE value="Feb5 code daily" />
     <MESSAGE value="Feb6 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb6 code daily" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/Feb/feb7/MaximumNumOfWordsInSentence.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Feb7 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb7 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
