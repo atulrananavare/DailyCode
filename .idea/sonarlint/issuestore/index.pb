@@ -3,8 +3,6 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 ;
 example.txt,e\1\e1bc3ba85b832a12e5537300fa1def22727f330e
-…
-U.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am__Changes_1.xml,5\8\581bb00a536ab23f7fe6a577b444d42c56373bb1
 „
 T.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am__Changes_.xml,2\6\26b5f68f1fc733cbed047e8a7b2aaa4d730f8b44
 h
@@ -39,3 +37,19 @@ e
 5src/main/java/com/daily/Feb/feb5/FibonacciSeries.java,8\7\879493ed95b090fecaede6a7925165d063081331
 l
 <src/main/java/com/daily/Feb/feb5/OccurrenceOfNumberFind.java,1\3\132aec28202522bc03c9d94b228702d65775dd16
+m
+=src/main/java/com/daily/Feb/feb5/RemoveDuplicateInString.java,9\6\967a746571592bd27b4b15a398f6ae57f64aee10
+l
+<src/main/java/com/daily/Feb/feb6/RemoveVowelsFromString.java,c\9\c9f305835b5828cfad969776b4368331971e8984
+q
+Asrc/main/java/com/daily/Feb/feb6/MaximumNumOfWordsInSentence.java,b\c\bcf84a1df7bfd482e3b98f093882b26061b70ba6
+g
+7src/main/java/com/daily/Feb/feb6/DefangingIPAdress.java,9\1\91708bf74f67692eddc1ba0fc9f72ba161958052
+q
+Asrc/main/java/com/daily/Feb/feb7/MaximumNumOfWordsInSentence.java,b\e\bef9668e1860b853658e4412f12c3e08e5e6523b
+e
+5src/main/java/com/daily/Feb/feb7/JewelsAndStones.java,7\a\7a81289fa1d480991091e05f5cfe3f67b548a4c4
+f
+6src/main/java/com/daily/Feb/feb7/ReverseTheNumber.java,c\7\c736af1e9ae15721c3d230160226d68ff9d37f2d
+e
+5src/main/java/com/daily/Feb/feb7/SwitchStatement.java,6\f\6fb53d944bb8a345a14c6f7e2dd65df85c89d46c
