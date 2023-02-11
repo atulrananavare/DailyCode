@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb11 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb11/MaxInArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb11/SwapInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb11/SwapInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <recent name="com.daily.Feb.feb7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxInArrays">
+  <component name="RunManager" selected="Application.SwapInArray">
     <configuration name="MaxInArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb11.MaxInArrays" />
       <module name="DailyWork" />
@@ -126,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxInArrays" />
         <item itemvalue="Application.SwapInArray" />
+        <item itemvalue="Application.MaxInArrays" />
         <item itemvalue="Application.ShuffleString" />
         <item itemvalue="Application.SwitchStatement" />
         <item itemvalue="Application.ReverseTheNumber" />
@@ -416,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676117427930</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Feb11 code daily">
+      <created>1676118104456</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1676118104456</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
