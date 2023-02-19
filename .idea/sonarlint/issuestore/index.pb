@@ -59,3 +59,7 @@ e
 5src/main/java/com/daily/Feb/feb7/SwitchStatement.java,6\f\6fb53d944bb8a345a14c6f7e2dd65df85c89d46c
 f
 6src/main/java/com/daily/Feb/feb7/ReverseTheNumber.java,c\7\c736af1e9ae15721c3d230160226d68ff9d37f2d
+b
+2src/main/java/com/daily/Feb/feb11/SwapInArray.java,9\7\979bfd5d845d905a2cffb199b3d03b81f2a84d71
+k
+;src/main/java/com/daily/Feb/feb11/IntersectionOfArrays.java,a\b\ab23094c10ec81395464f65ff187160d41fb8e00
