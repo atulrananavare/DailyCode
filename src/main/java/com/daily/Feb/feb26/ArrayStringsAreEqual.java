@@ -13,6 +13,8 @@ public class ArrayStringsAreEqual {
 
         String str=String.join(" ","My", "name", "is", "Niraj", "Pandey");
         System.out.println(str);
+
+        System.out.println(arrayStringsAreEqualAnother(word1,word2));
     }
 
     public static boolean arrayStringsAreEqual(String[] word1, String[] word2) {
@@ -34,5 +36,12 @@ public class ArrayStringsAreEqual {
             return true;
         }
         return false;
+    }
+
+    public static boolean arrayStringsAreEqualAnother(String[] word1, String[] word2) {
+        String str1 = String.join("", word1); // concatenate all elements in word1
+        String str2 = String.join("", word2); // concatenate all elements in word2
+
+        return str1.equals(str2); // compare the concatenated strings
     }
 }

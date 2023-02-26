@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb25 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb25/SentenceSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb26/ArrayStringsAreEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb26/ArrayStringsAreEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb26/ArrayStringsAreEqual.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -452,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676789644618</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Feb25 code daily">
+      <created>1677389415942</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1677389415942</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
