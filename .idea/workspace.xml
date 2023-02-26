@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb25 code daily">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb26/ArrayStringsAreEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb26/ArrayStringsAreEqual.java" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb26 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day1/AvgSalaryExcludeMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day1/CountOdds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/Atul_WorkSpace/STS_Workspace/springsecurity&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
@@ -57,7 +59,7 @@
       <recent name="com.daily.Feb.feb7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayStringsAreEqual">
+  <component name="RunManager" selected="Application.CountOdds">
     <configuration name="ArrayStringsAreEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb26.ArrayStringsAreEqual" />
       <module name="DailyWork" />
@@ -84,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb11.IntersectionOfArrays" />
+    <configuration name="CountOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day1.CountOdds" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb.feb11.*" />
+          <option name="PATTERN" value="LeetcodingPlan.Day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountOdds" />
         <item itemvalue="Application.ArrayStringsAreEqual" />
         <item itemvalue="Application.SentenceSorting" />
         <item itemvalue="Application.BalancedString" />
         <item itemvalue="Application.com.daily.Feb.feb18.ShuffleString" />
-        <item itemvalue="Application.IntersectionOfArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677389415942</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Feb26 code daily">
+      <created>1677389693263</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1677389693263</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,7 +505,8 @@
     <MESSAGE value="Feb18 code daily" />
     <MESSAGE value="Feb19 code daily" />
     <MESSAGE value="Feb25 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb25 code daily" />
+    <MESSAGE value="Feb26 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb26 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
