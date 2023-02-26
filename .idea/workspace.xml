@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb26 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day1/AvgSalaryExcludeMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day1/CountOdds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day1/AvgSalaryExcludeMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day1/AvgSalaryExcludeMinMax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +59,26 @@
       <recent name="com.daily.Feb.feb7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountOdds">
+  <component name="RunManager" selected="Application.AvgSalaryExcludeMinMax">
     <configuration name="ArrayStringsAreEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb26.ArrayStringsAreEqual" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.daily.Feb.feb26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvgSalaryExcludeMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day1.AvgSalaryExcludeMinMax" />
+      <module name="DailyWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetcodingPlan.Day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.daily.Feb.feb18.ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb18.ShuffleString" />
-      <module name="DailyWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.daily.Feb.feb18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AvgSalaryExcludeMinMax" />
         <item itemvalue="Application.CountOdds" />
         <item itemvalue="Application.ArrayStringsAreEqual" />
         <item itemvalue="Application.SentenceSorting" />
         <item itemvalue="Application.BalancedString" />
-        <item itemvalue="Application.com.daily.Feb.feb18.ShuffleString" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677389693263</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Feb26 code daily">
+      <created>1677426201119</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1677426201119</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
