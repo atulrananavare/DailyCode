@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb26 code daily">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day2/NumberOf1Bits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day1/AvgSalaryExcludeMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day1/AvgSalaryExcludeMinMax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <recent name="com.daily.Feb.feb7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AvgSalaryExcludeMinMax">
+  <component name="RunManager" selected="Application.NumberOf1Bits">
     <configuration name="ArrayStringsAreEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb26.ArrayStringsAreEqual" />
       <module name="DailyWork" />
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalancedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb19.BalancedString" />
+    <configuration name="CountOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day1.CountOdds" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb.feb19.*" />
+          <option name="PATTERN" value="LeetcodingPlan.Day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day1.CountOdds" />
+    <configuration name="NumberOf1Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day2.NumberOf1Bits" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodingPlan.Day1.*" />
+          <option name="PATTERN" value="LeetcodingPlan.Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOf1Bits" />
         <item itemvalue="Application.AvgSalaryExcludeMinMax" />
         <item itemvalue="Application.CountOdds" />
         <item itemvalue="Application.ArrayStringsAreEqual" />
         <item itemvalue="Application.SentenceSorting" />
-        <item itemvalue="Application.BalancedString" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677426201119</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Feb26 code daily">
+      <created>1677429110556</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1677429110556</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
