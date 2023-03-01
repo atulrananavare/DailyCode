@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb27 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day2/SubtractProductAndSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day3/LargestPerimeterTriangle.java" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb28 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day3/FindNearestPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <recent name="com.daily.Feb.feb7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LargestPerimeterTriangle">
+  <component name="RunManager" selected="Application.FindNearestPoint">
     <configuration name="AvgSalaryExcludeMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day1.AvgSalaryExcludeMinMax" />
       <module name="DailyWork" />
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day1.CountOdds" />
+    <configuration name="FindNearestPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day3.FindNearestPoint" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodingPlan.Day1.*" />
+          <option name="PATTERN" value="LeetcodingPlan.Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindNearestPoint" />
         <item itemvalue="Application.LargestPerimeterTriangle" />
         <item itemvalue="Application.SubtractProductAndSum" />
         <item itemvalue="Application.NumberOf1Bits" />
         <item itemvalue="Application.AvgSalaryExcludeMinMax" />
-        <item itemvalue="Application.CountOdds" />
       </list>
     </recent_temporary>
   </component>
@@ -143,13 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664532100999</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Oct1 code daily">
-      <created>1664535085644</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1664535085644</updated>
     </task>
     <task id="LOCAL-00002" summary="Oct1 code daily">
       <created>1664535877652</created>
@@ -487,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677511098471</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Feb28 code daily">
+      <created>1677601488983</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1677601488983</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +501,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Oct2 code daily" />
     <MESSAGE value="Oct3 code daily" />
     <MESSAGE value="Oct4 code daily" />
     <MESSAGE value="Oct5 code daily" />
@@ -527,7 +525,24 @@
     <MESSAGE value="Feb25 code daily" />
     <MESSAGE value="Feb26 code daily" />
     <MESSAGE value="Feb27 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb27 code daily" />
+    <MESSAGE value="Feb28 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb28 code daily" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day3/FindNearestPoint.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day3/FindNearestPoint.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
