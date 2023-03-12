@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb28 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day3/FindNearestPoint.java" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="March 1 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day4/ArithmeticProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day4/ArraySign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day4/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day4/OneStringSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day5/CheckIfTheLineStraightLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day5/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day6/BuildArrayFromPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day6/ConcatenationOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day7/LeftRightSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +67,13 @@
       <recent name="com.daily.Feb.feb7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindNearestPoint">
-    <configuration name="AvgSalaryExcludeMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day1.AvgSalaryExcludeMinMax" />
+  <component name="RunManager" selected="Application.LeftRightSum">
+    <configuration name="BuildArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day6.BuildArrayFromPermutation" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodingPlan.Day1.*" />
+          <option name="PATTERN" value="LeetcodingPlan.Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNearestPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day3.FindNearestPoint" />
+    <configuration name="CheckIfTheLineStraightLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day5.CheckIfTheLineStraightLine" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodingPlan.Day3.*" />
+          <option name="PATTERN" value="LeetcodingPlan.Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestPerimeterTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day3.LargestPerimeterTriangle" />
+    <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day6.ConcatenationOfArray" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetcodingPlan.Day3.*" />
+          <option name="PATTERN" value="LeetcodingPlan.Day6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftRightSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day7.LeftRightSum" />
+      <module name="DailyWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetcodingPlan.Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtractProductAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetcodingPlan.Day2.SubtractProductAndSum" />
-      <module name="DailyWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetcodingPlan.Day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindNearestPoint" />
-        <item itemvalue="Application.LargestPerimeterTriangle" />
-        <item itemvalue="Application.SubtractProductAndSum" />
+        <item itemvalue="Application.LeftRightSum" />
         <item itemvalue="Application.NumberOf1Bits" />
-        <item itemvalue="Application.AvgSalaryExcludeMinMax" />
+        <item itemvalue="Application.ConcatenationOfArray" />
+        <item itemvalue="Application.BuildArrayFromPermutation" />
+        <item itemvalue="Application.CheckIfTheLineStraightLine" />
       </list>
     </recent_temporary>
   </component>
@@ -142,13 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664532100999</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Oct1 code daily">
-      <created>1664535877652</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1664535877652</updated>
     </task>
     <task id="LOCAL-00003" summary="Oct1 code daily">
       <created>1664536938808</created>
@@ -486,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677601488983</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="March 1 code daily">
+      <created>1677686914014</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1677686914014</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Oct3 code daily" />
     <MESSAGE value="Oct4 code daily" />
     <MESSAGE value="Oct5 code daily" />
     <MESSAGE value="Oct6 code daily" />
@@ -526,23 +534,8 @@
     <MESSAGE value="Feb26 code daily" />
     <MESSAGE value="Feb27 code daily" />
     <MESSAGE value="Feb28 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb28 code daily" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day3/FindNearestPoint.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day3/FindNearestPoint.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="March 1 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="March 1 code daily" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

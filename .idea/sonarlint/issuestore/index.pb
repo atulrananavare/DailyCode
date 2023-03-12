@@ -61,3 +61,13 @@ b
 2src/main/java/com/daily/Feb/feb11/SwapInArray.java,9\7\979bfd5d845d905a2cffb199b3d03b81f2a84d71
 k
 ;src/main/java/com/daily/Feb/feb11/IntersectionOfArrays.java,a\b\ab23094c10ec81395464f65ff187160d41fb8e00
+f
+6src/main/java/com/daily/Feb/feb25/SentenceSorting.java,a\0\a0acc67d397d7e0947545e48c268585f0d4c0389
+k
+;src/main/java/com/daily/Feb/feb26/ArrayStringsAreEqual.java,d\3\d377ba117a2c6783b89ae29b8b3a3c8c28c65614
+o
+?src/main/java/LeetcodingPlan/Day3/LargestPerimeterTriangle.java,a\5\a51d35a6b807acd3d90e291f44dd32cf14a79ae2
+c
+3src/main/java/com/daily/Feb/feb5/MaximumNumber.java,b\b\bbe9a9e34ecfedf42373c759c6b31a848bd34c6e
+m
+=src/main/java/LeetcodingPlan/Day1/AvgSalaryExcludeMinMax.java,c\0\c0f9dcbbcecab4b8447314cffb412702baab4ffc
