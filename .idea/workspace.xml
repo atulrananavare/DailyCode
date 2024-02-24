@@ -4,48 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Jan 31 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/April/CheckPangram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/April/KthPositiveInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/April/NumberSmallerThanCurrentNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/April/NumberofGoodPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/April/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/April/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/April/TruncateSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/May/ElementSumAndDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/May/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/May/MaxVowelsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/May/NumberOfSubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/May/PriorityQueuesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/May/TopKFrequentElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/BuddyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/FairDistributionOfCookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/FindTargetIndicesAfterSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/LinearSearchAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/MaxCountPositiveNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/june/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/june/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/june/SquareRoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am_[Changes]1/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_31-01-2023_08_26_am__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0730159088ae92bba698a8d3224b2f102b70e084" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14214d178073f02c1bea621e370872a31daecaaf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9ccf17fc8fb57ab25ffc3b0dc6d84e8f1b93bb0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4b22ef03441f93722dfcffb4b87a96e701fb493" beforeDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="July03 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb2024/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromeStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/SplitIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/ReverseOnlyChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/ReverseString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/ReverseString3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/WinnerOfGameColour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan26/CheckListDivByTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan26/SingleTon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan26/SingleTonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan28/CheckNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan28/FrequencyOfWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan29/parenthesisChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/jan30/LongestCOmmonPrefix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day7/LeftRightSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day7/LeftRightSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan31/ReverseWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/ReverseWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,13 +68,13 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxCountPositiveNegative">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.july.BinarySearch" />
+  <component name="RunManager" selected="Application.PalindromeStringArray">
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb2024.MajorityElement" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.july.*" />
+          <option name="PATTERN" value="com.daily.Feb2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuddyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.july.BuddyString" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb4.Palindrome" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.july.*" />
+          <option name="PATTERN" value="com.daily.Feb.feb4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTargetIndicesAfterSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.july.FindTargetIndicesAfterSearch" />
+    <configuration name="PalindromeStringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb2024.PalindromeStringArray" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.july.*" />
+          <option name="PATTERN" value="com.daily.Feb2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearchAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.july.LinearSearchAlgo" />
+    <configuration name="PalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb2024.PalindromicSubstring" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.july.*" />
+          <option name="PATTERN" value="com.daily.Feb2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxCountPositiveNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.july.MaxCountPositiveNegative" />
+    <configuration name="ReverseOnlyChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.octomber23.ReverseOnlyChars" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.july.*" />
+          <option name="PATTERN" value="com.daily.octomber23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxCountPositiveNegative" />
-        <item itemvalue="Application.FindTargetIndicesAfterSearch" />
-        <item itemvalue="Application.LinearSearchAlgo" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.BuddyString" />
+        <item itemvalue="Application.PalindromeStringArray" />
+        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.PalindromicSubstring" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.ReverseOnlyChars" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675097087613</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="July03 code daily">
+      <created>1688396115462</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1688396115462</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,7 +335,8 @@
     <MESSAGE value="Jan 26 code daily" />
     <MESSAGE value="Jan 28 code daily" />
     <MESSAGE value="Jan 30 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan 30 code daily" />
+    <MESSAGE value="July03 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="July03 code daily" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -388,6 +370,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/daily/july/BuddyString.java</url>
           <line>9</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/july/ExcelSheetColumnNumber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day1/AvgSalaryExcludeMinMax.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromicSubstring.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromicSubstring.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/Feb2024/MajorityElement.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/Feb2024/MajorityElement.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

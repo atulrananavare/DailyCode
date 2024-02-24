@@ -3,6 +3,7 @@ package LeetcodingPlan.Day7;
 import java.util.Arrays;
 
 public class LeftRightSum {
+
     public static void main(String[] args) {
         int[] arr={10,4,8,3};
         leftRigthDifference(arr);
@@ -28,4 +29,5 @@ public class LeftRightSum {
         return answer;
 
     }
+
 }
