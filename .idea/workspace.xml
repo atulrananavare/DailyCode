@@ -4,22 +4,95 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="July03 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb2024/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromeStringArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/ExcelSheetColumnNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/july/SplitIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/ReverseOnlyChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/ReverseString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/ReverseString3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/WinnerOfGameColour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="Feb24 code daily">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/JavaConcepts/wrapper/ArrayListTraversing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/JavaConcepts/wrapper/BoxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/march24/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/march24/MaximumOddBinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/march24/SquaresofaSortedArray_977.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day7/LeftRightSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetcodingPlan/Day7/LeftRightSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan/jan31/ReverseWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/ReverseWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/April/CheckPangram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/April/CheckPangram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/April/KthPositiveInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/April/KthPositiveInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/April/NumberSmallerThanCurrentNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/April/NumberSmallerThanCurrentNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/April/NumberofGoodPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/April/NumberofGoodPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/April/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/April/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/April/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/April/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/April/TruncateSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/April/TruncateSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb1/AnagramCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb1/AnagramCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb1/LongestCommonPrefixArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb1/LongestCommonPrefixArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb10/ShuffleString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb10/ShuffleString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb11/IntersectionOfArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb11/IntersectionOfArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb11/MaxInArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb11/MaxInArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb11/SwapInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb11/SwapInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb18/ShuffleString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb18/ShuffleString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb19/BalancedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb19/BalancedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb25/SentenceSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb25/SentenceSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb26/ArrayStringsAreEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb26/ArrayStringsAreEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb4/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb4/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb4/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb4/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb5/AlphabetCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb5/AlphabetCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb5/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb5/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb5/MaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb5/MaximumNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb5/OccurrenceOfNumberFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb5/OccurrenceOfNumberFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb5/RemoveDuplicateInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb5/RemoveDuplicateInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb6/DefangingIPAdress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb6/DefangingIPAdress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb6/MaximumNumOfWordsInSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb6/MaximumNumOfWordsInSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb6/RemoveVowelsFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb6/RemoveVowelsFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb7/JewelsAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb7/JewelsAndStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb7/MaximumNumOfWordsInSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb7/MaximumNumOfWordsInSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb7/ReverseTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb7/ReverseTheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb7/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb7/SwitchStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb/feb7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb/feb7/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb2024/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb2024/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromeStringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb2024/PalindromeStringArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb2024/PalindromicSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/Jan23/ReverseWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Jan23/ReverseWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/May/ElementSumAndDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May/ElementSumAndDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/May/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May/KthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/May/MaxVowelsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May/MaxVowelsInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/May/NumberOfSubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May/NumberOfSubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/May/PriorityQueuesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May/PriorityQueuesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/May/TopKFrequentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May/TopKFrequentElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/BuddyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/BuddyString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/ExcelSheetColumnNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/FairDistributionOfCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/FairDistributionOfCookies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/FindTargetIndicesAfterSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/FindTargetIndicesAfterSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/LinearSearchAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/LinearSearchAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/MaxCountPositiveNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/MaxCountPositiveNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/july/SplitIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/SplitIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/june/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/june/ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/june/NumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/june/NumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/june/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/june/SquareRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/FindDuplicateNumbersFromTwoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct1/FindDuplicateNumbersFromTwoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/ImplementStrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct1/ImplementStrStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct1/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/ReadTextFileContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct1/ReadTextFileContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/StringJoinerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct1/StringJoinerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct1/StringtoInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct1/StringtoInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct10/RemoveLeadingAndTrailingSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct10/RemoveLeadingAndTrailingSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct10/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct10/SortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct2/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct2/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct2/Panagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct2/Panagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct3/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct3/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct3/EqualFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct3/EqualFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct4/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct4/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct5/StringContainsVovels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct5/StringContainsVovels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct5/SwapTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct5/SwapTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct6/IsPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct6/IsPrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct7/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct7/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct8/OnlyOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct8/OnlyOddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct8/PalindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct8/PalindromeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct9/DuplicateFromList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct9/DuplicateFromList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct9/PalindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct9/PalindromeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct9/RemoveWhiteSpacesString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct9/RemoveWhiteSpacesString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber22/Oct9/StartWithJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber22/Oct9/StartWithJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/ReverseOnlyChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber23/ReverseOnlyChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/ReverseString2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber23/ReverseString2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/ReverseString3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber23/ReverseString3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/octomber23/WinnerOfGameColour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/octomber23/WinnerOfGameColour.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +141,13 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromeStringArray">
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb2024.MajorityElement" />
+  <component name="RunManager" selected="Application.ArrayListTraversing">
+    <configuration name="ArrayListTraversing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.JavaConcepts.wrapper.ArrayListTraversing" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb2024.*" />
+          <option name="PATTERN" value="com.daily.JavaConcepts.wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb.feb4.Palindrome" />
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.Feb2024.MajorityElement" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb.feb4.*" />
+          <option name="PATTERN" value="com.daily.Feb2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.Feb2024.PalindromicSubstring" />
+    <configuration name="SquaresofaSortedArray_977" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.march24.SquaresofaSortedArray_977" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.Feb2024.*" />
+          <option name="PATTERN" value="com.daily.march24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseOnlyChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.octomber23.ReverseOnlyChars" />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.march24.demo" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.octomber23.*" />
+          <option name="PATTERN" value="com.daily.march24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListTraversing" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.SquaresofaSortedArray_977" />
         <item itemvalue="Application.PalindromeStringArray" />
         <item itemvalue="Application.MajorityElement" />
-        <item itemvalue="Application.PalindromicSubstring" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.ReverseOnlyChars" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688396115462</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Feb24 code daily">
+      <created>1708759159111</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1708759159111</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,43 +416,44 @@
     <MESSAGE value="Jan 28 code daily" />
     <MESSAGE value="Jan 30 code daily" />
     <MESSAGE value="July03 code daily" />
-    <option name="LAST_COMMIT_MESSAGE" value="July03 code daily" />
+    <MESSAGE value="Feb24 code daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb24 code daily" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/April/KthPositiveInteger.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/April/KthPositiveInteger.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/May/NumberOfSubSequence.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May/NumberOfSubSequence.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/june/NumArray.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/june/NumArray.java</url>
           <line>7</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/july/FairDistributionOfCookies.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/FairDistributionOfCookies.java</url>
           <line>33</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/july/FairDistributionOfCookies.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/FairDistributionOfCookies.java</url>
           <line>35</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/july/BuddyString.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/BuddyString.java</url>
           <line>9</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/july/ExcelSheetColumnNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/july/ExcelSheetColumnNumber.java</url>
           <line>11</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -382,22 +463,22 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromicSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb2024/PalindromicSubstring.java</url>
           <line>18</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/Feb2024/PalindromicSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb2024/PalindromicSubstring.java</url>
           <line>11</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/Feb2024/MajorityElement.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb2024/MajorityElement.java</url>
           <line>18</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/daily/Feb2024/MajorityElement.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/Feb2024/MajorityElement.java</url>
           <line>17</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
