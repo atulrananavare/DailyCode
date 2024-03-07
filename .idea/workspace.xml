@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="March24 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/JavaConcepts/collections/HashtableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/JavaConcepts/collections/TreesetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/march24/FirstRepeatingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/march24/MinimumLength_1750.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/JavaConcepts/collections/HashMapDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daily/JavaConcepts/wrapper/ArrayListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daily/JavaConcepts/wrapper/ArrayListMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +56,13 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashtableDemo">
-    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.JavaConcepts.wrapper.ArrayListMethods" />
+  <component name="RunManager" selected="Application.HashMapDemo">
+    <configuration name="FirstRepeatingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.leetcodes.march24.FirstRepeatingNumber" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.JavaConcepts.wrapper.*" />
+          <option name="PATTERN" value="com.daily.leetcodes.march24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstRepeatingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.leetcodes.march24.FirstRepeatingNumber" />
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.JavaConcepts.collections.HashMapDemo" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.leetcodes.march24.*" />
+          <option name="PATTERN" value="com.daily.JavaConcepts.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapDemo" />
         <item itemvalue="Application.HashtableDemo" />
         <item itemvalue="Application.TreesetDemo" />
         <item itemvalue="Application.MinimumLength_1750" />
         <item itemvalue="Application.FirstRepeatingNumber" />
-        <item itemvalue="Application.ArrayListMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709391167576</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="March24 code daily">
+      <created>1709613000459</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1709613000459</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

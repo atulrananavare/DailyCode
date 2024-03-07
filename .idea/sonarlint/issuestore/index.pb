@@ -189,3 +189,11 @@ t
 Dsrc/main/java/com/daily/leetcodes/octomber23/WinnerOfGameColour.java,b\7\b7cfb3f6a9a73f2f07094f33c0bdf7aba98d25fa
 r
 Bsrc/main/java/com/daily/JavaConcepts/wrapper/ArrayListMethods.java,f\6\f63229e4cc89d7ae0562d08df0ccaa4736bc7a1f
+s
+Csrc/main/java/com/daily/leetcodes/march24/FirstRepeatingNumber.java,1\6\1626cb8cc8e6fc9725920aa7912c46bd2fec0c2b
+q
+Asrc/main/java/com/daily/leetcodes/march24/MinimumLength_1750.java,d\2\d2caa131766412036df7bb0c51ca143b7c33f575
+q
+Asrc/main/java/com/daily/JavaConcepts/collections/TreesetDemo.java,3\9\397ff537a33dd8e5b346d8ae628a100499bae347
+s
+Csrc/main/java/com/daily/JavaConcepts/collections/HashtableDemo.java,9\8\989295d46f8a8238f2403172f56b0dfbd9ceb13e
