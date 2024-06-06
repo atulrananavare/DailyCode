@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27dd623e-e31d-4cc6-811c-369883afbb4e" name="Changes" comment="March24 code daily">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/JavaConcepts/collections/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/June24/HandOfStraights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May24/FindTheDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May24/LargestPositiveIntegerThatExistsWithItsNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May24/PermutationDifferencebetweenTwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May24/ReversePrefixofWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May24/StudentAttendenceReord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,13 +61,13 @@
       <recent name="E:\Atul_WorkSpace\eclipse_workspace\DailyWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMapDemo">
-    <configuration name="FirstRepeatingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.leetcodes.march24.FirstRepeatingNumber" />
+  <component name="RunManager" selected="Application.HandOfStraights">
+    <configuration name="EqualFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.leetcodes.octomber22.Oct3.EqualFrequency" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.leetcodes.march24.*" />
+          <option name="PATTERN" value="com.daily.leetcodes.octomber22.Oct3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.JavaConcepts.collections.HashMapDemo" />
+    <configuration name="FindTheDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.leetcodes.May24.FindTheDifference" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.JavaConcepts.collections.*" />
+          <option name="PATTERN" value="com.daily.leetcodes.May24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashtableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.JavaConcepts.collections.HashtableDemo" />
+    <configuration name="HandOfStraights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.leetcodes.June24.HandOfStraights" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.JavaConcepts.collections.*" />
+          <option name="PATTERN" value="com.daily.leetcodes.June24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumLength_1750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.leetcodes.march24.MinimumLength_1750" />
+    <configuration name="PermutationDifferencebetweenTwoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.leetcodes.May24.PermutationDifferencebetweenTwoStrings" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.leetcodes.march24.*" />
+          <option name="PATTERN" value="com.daily.leetcodes.May24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreesetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daily.JavaConcepts.collections.TreesetDemo" />
+    <configuration name="StudentAttendenceReord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daily.leetcodes.May24.StudentAttendenceReord" />
       <module name="DailyWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daily.JavaConcepts.collections.*" />
+          <option name="PATTERN" value="com.daily.leetcodes.May24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashMapDemo" />
-        <item itemvalue="Application.HashtableDemo" />
-        <item itemvalue="Application.TreesetDemo" />
-        <item itemvalue="Application.MinimumLength_1750" />
-        <item itemvalue="Application.FirstRepeatingNumber" />
+        <item itemvalue="Application.HandOfStraights" />
+        <item itemvalue="Application.EqualFrequency" />
+        <item itemvalue="Application.StudentAttendenceReord" />
+        <item itemvalue="Application.PermutationDifferencebetweenTwoStrings" />
+        <item itemvalue="Application.FindTheDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709613000459</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="March24 code daily">
+      <created>1709785260842</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1709785260842</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,6 +433,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/march24/MinimumLength_1750.java</url>
           <line>18</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May24/LargestPositiveIntegerThatExistsWithItsNegative.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/May24/FindTheDifference.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daily/leetcodes/June24/HandOfStraights.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
